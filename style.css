@@ -39,7 +39,7 @@ height: 92vh;
     margin-left: 30px;
 }
 
-.mobile-menu div{
+#mobile-menu div{
     width: 35px;
     height: 3px;
     background: #fff;
