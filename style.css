@@ -47,12 +47,13 @@ height: 92vh;
 }
 
 #mobile-menu {
-    display:block /*esconder icone em telas grandes*/
+    display:block; /*esconder icone em telas grandes*/
     cursor: pointer;
    
 }
 .texto {
  font-family:Verdana, Geneva, Tahoma, sans-serif;   
- color:rgb(94, 89, 89)
+ color:rgb(94, 89, 89);
 }
 
+.txt2{ font:courier new; color:green;                     }
