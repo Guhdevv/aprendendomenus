@@ -46,7 +46,7 @@ height: 92vh;
     margin: 6px;
 }
 
-.mobile-menu {
+#mobile-menu {
     display:block /*esconder icone em telas grandes*/
     cursor: pointer;
    
