@@ -56,7 +56,11 @@ height: 92vh;
  color:rgb(94, 89, 89);
 }
 
-.txt2{ 
- font:courier new; 
- color:green;             
+#imagem {
+  display: flex;
+}
+
+.txt2 { 
+ font: verdana; 
+ color: green;             
 }
