@@ -13,7 +13,7 @@ a { color: #fff;
     
 }
 /*Barra superior do menu*/
-.nav {
+nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
