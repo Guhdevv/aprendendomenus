@@ -58,6 +58,7 @@ height: 92vh;
 
 #imagem {
   display: flex;
+  width: 200px;
 }
 
 .txt2 { 
