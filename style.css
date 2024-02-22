@@ -59,6 +59,7 @@ height: 92vh;
 #imagem {
   display: flex;
   width: 400px;
+  alt: 'Uma borboleta';
 }
 
 .txt2 { 
