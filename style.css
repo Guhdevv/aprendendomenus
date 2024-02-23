@@ -23,7 +23,9 @@ nav {
     box shadow:( 200px px 30px 40px rgb(67, 28, 186);  
 }
 /*plano de fundo do site*/
-body { background-image: url("fj imagem.jpg");
+body { 
+ background-color: blue;
+ background-image: url("fj imagem.jpg");
 background-size: cover;
 height: 92vh;
 }
